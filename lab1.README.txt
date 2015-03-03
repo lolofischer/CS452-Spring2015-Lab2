@@ -1,1 +1,1 @@
-name, date, description
+Logan Fischer, 2/17/15, Triangle with 3 colors that translates on the canvas using a,w,s,d keys. 
